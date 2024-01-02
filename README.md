@@ -20,6 +20,7 @@ Beneficios:
 
 - Aprender Tailwind CSS y ver como agregra librería
 - Aprender Typescript
+- Usar recursos como https://bg.ibelick.com/
 - Usar Custom Hook
 - Ver SEO con Client Side Rendering
 - Deploy con Netlify
