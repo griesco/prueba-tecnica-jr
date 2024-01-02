@@ -23,4 +23,4 @@ Beneficios:
 - Usar recursos como https://bg.ibelick.com/
 - Usar Custom Hook
 - Ver SEO con Client Side Rendering
-- Deploy con Netlify
+- Deploy con Netlify Drop
