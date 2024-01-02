@@ -15,3 +15,11 @@ Además, cada vez que se hace click en cualquier elemento de la lista, debe elim
 
 - [] Dar importancia a la funcionalidad y usabilidad, más que al diseño visual.
 - [] El código debe ser enteramente desarrollado en Typescript con TailwindCSS (opcional).
+
+Beneficios:
+
+- Aprender Tailwind CSS y ver como agregra librería
+- Aprender Typescript
+- Usar Custom Hook
+- Ver SEO con Client Side Rendering
+- Deploy con Netlify
