@@ -108,7 +108,7 @@ function App() {
         >
           <img
             className="absolute bottom-0 mb-8 h-8 w-auto"
-            src="/logo.png"
+            src="/prueba-tecnica-jr/img/logo.png"
             alt="Logo de Artech"
           />
         </a>
