@@ -31,9 +31,10 @@ Además, cada vez que se hace click en cualquier elemento de la lista, debe elim
 ## 🎉 Presentation
 
 <div align="center">
-
+ 
+ ![609shots_so](https://github.com/griesco/prueba-tecnica-jr/assets/139785794/5a0234a5-3078-4194-bb51-473e12b601fa)
  <small><p>Prueba técnica Jr de React | Desktop </p></small>
-
+ 
 </div>
 
 ## ⚙️ Stack
